@@ -1,0 +1,21 @@
+_repo: Moby-Hyphenation-List_3204
+creator:
+  author:
+    agent_name: Ward, Grady
+    gutenberg_agent_id: '1132'
+    url: http://www.gutenberg.org/2009/agents/1132
+    wikipedia: http://en.wikipedia.org/wiki/Grady_Ward
+description: ''
+gutenberg_issued: '2002-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3204'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Words and phrase lists -- English'
+- !lcc 'AG'
+title: Moby Hyphenation List
+url: http://www.gutenberg.org/ebooks/3204
